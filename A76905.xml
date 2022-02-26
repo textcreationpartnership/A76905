@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy nevves from the north declaring the engagement of the forces, commanded by Lieut. Gen. Crumwel, and Major Gen. Munro; the particulars of a fight, and the number killed and taken. Also, a gallant victory obtained in Cleveland, beyond the City of York, against Sir Philip Musgrave and his forces, with the exact and full relation thereof. Likewise, strange and terrible newes for the Kingdome of Scotland, the like never heard of before. And a declaration of the Prince of VVales, his proceedings at sea, and sailing towards Holland; and the Earle of VVarwick's resolution touching the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76905</idno>
+            <idno type="STC">Wing B3283</idno>
+            <idno type="STC">Thomason E462_19</idno>
+            <idno type="STC">ESTC R205072</idno>
+            <idno type="EEBO-CITATION">99864513</idno>
+            <idno type="PROQUEST">99864513</idno>
+            <idno type="VID">162199</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162199)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E462[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy nevves from the north declaring the engagement of the forces, commanded by Lieut. Gen. Crumwel, and Major Gen. Munro; the particulars of a fight, and the number killed and taken. Also, a gallant victory obtained in Cleveland, beyond the City of York, against Sir Philip Musgrave and his forces, with the exact and full relation thereof. Likewise, strange and terrible newes for the Kingdome of Scotland, the like never heard of before. And a declaration of the Prince of VVales, his proceedings at sea, and sailing towards Holland; and the Earle of VVarwick's resolution touching the same.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>September 8. Printed for G. VV.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept. ye 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162199:1" rendition="simple:additions"/>
+            <p>BLOUDY NEVVES FROM THE NORTH Declaring The Engagement of the FORCES, commanded by Lieut. Gen. <hi>Crumwel,</hi> and Major Gen. <hi>Munro;</hi> the particulars of a Fight, and the number killed and taken.</p>
+            <p>Alſo, a gallant Victory obtained in <hi>Cleveland,</hi> beyond the City of <hi>York,</hi> againſt Sir <hi>Philip Muſgrave</hi> and his Forces, with the exact and full relation thereof.</p>
+            <p>Likewiſe, ſtrange and terrible Newes for the King<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> the like never heard of before.</p>
+            <p>And a <hi>Declaration</hi> of the Prince of <hi>VVales,</hi> his procee<g ref="char:EOLhyphen"/>dings at Sea, and ſailing towards <hi>Holland;</hi> and the Earle of <hi>VVarwick's</hi> Reſolution touching the ſame.</p>
+            <p>September 8. Printed for <hi>G. VV.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dispatch">
+            <pb facs="tcp:162199:2"/>
+            <pb n="1" facs="tcp:162199:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>BLOUDY NEWES FROM THE NORTH</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe Scots Army grow numerous, their Body incre<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſes, and divers reſorts to them daily, Major Generall <hi>Munro</hi> is Commander in chief both of horſe and foot, having neer upon fifteen Regiments under his immediate command, who exe<g ref="char:EOLhyphen"/>cutes the ſame cruelty as the <hi>Hambletonian Army,</hi> de<g ref="char:EOLhyphen"/>flouring of women, burning and plundering of hou<g ref="char:EOLhyphen"/>ſes, driving away all ſorts of cattell, forcing divers
+<pb n="2" facs="tcp:162199:3"/>Miniſters and others along with them. But no doubt, but God will puniſh them for their many inſolencies, plunderings, and ceſſing the country with extraordi<g ref="char:EOLhyphen"/>nary burdens and taxes in their late expeditions into <hi>England,</hi> who for breach of Covenant will receive a condigne guerdon and puniſhment, it being a ſin odi<g ref="char:EOLhyphen"/>ous before God and Man.</p>
+                  <p>We hear that their Army of Engliſh, Iriſh, &amp; Scots are between five and ſixe thouſand, whoſe head-quar<g ref="char:EOLhyphen"/>ters are about <hi>Appleby</hi> in <hi>Weſtmerland,</hi> reſolving to fight Lieu. Gen. <hi>Cromwell,</hi> who is haſtning towards them with a very conſiderable Body of horſe and foot, and (as it is redorted) is within two dayes mareh of the main Body.</p>
+                  <p>And it is ſaid, that ſome action hath already happe<g ref="char:EOLhyphen"/>ned between parties, who on a ſudden engaged, diſpu<g ref="char:EOLhyphen"/>ting the place with great difficulty, but the Engliſh Iron-ſides in policy retreating, drew the Jockies from a place of advantage, rallied, and charged them with great fury and courage, the Iriſh Jockies received them, and ſtood many a deſperate charge, but finding the diſpute too hot retreated, our men purſues, who with great gallantry maintains the purſuit to their ve<g ref="char:EOLhyphen"/>ry heels, doing execution: but being ſomewhat wea<g ref="char:EOLhyphen"/>ry, returned, taking neer upon 30. priſoners, and killing almoſt as many, with little or no loſſe. A ſudde En<g ref="char:EOLhyphen"/>gagement is daily expected, <hi>Munro</hi> being reſolved to fight.</p>
+                  <p>It is likewiſe reported, that ſome of the Lieu. Gen. horſe have lately beaten up the Scots out-quarters in Weſtmerland, and have taken divers priſoners, putting many of the Iriſh to the ſword, the two Bodies ad<g ref="char:EOLhyphen"/>vance,
+<pb n="4" facs="tcp:162199:3"/>and are very neer an ingagement, both parties proceed forward, and a field is ſuddenly expected, po<g ref="char:EOLhyphen"/>licy is the chief Engine which the two Generals make uſe of, who are exceeding vigilant, in relation to an in<g ref="char:EOLhyphen"/>gagement.</p>
+                  <p>We hear that Sir <hi>Philip Muſgrave,</hi> Sir <hi>Robert Stric<g ref="char:EOLhyphen"/>land,</hi> and Sir <hi>VVilliam Blackſtone,</hi> with a party of horſe conſiſting of about five hundred came into <hi>Cleveland</hi> on Munday laſt, and began to levy the Countrey for the Trained Bands, but the Inhabitants riſing, and the <hi>Dale</hi> men comming into their aſſiſtance, they durſt not ſtay long, but preſently retreated.</p>
+                  <p>And haaing plundered divers horſes, and other Goods in and about the parts adjacent to <hi>Cleveland,</hi> the Inhabitants of the <hi>Middle Dale</hi> put themſelves into a poſture of defence, and haſtned to a paſſage where the Cavalry were to march through, who lay in Am<g ref="char:EOLhyphen"/>buſcado for their comming, and upon their approach neer, gave them a volley, which ſomewhat ſtartled ſir <hi>Philip Muſgrave</hi> and his forces: Whereupon they made a ſtand, and Sir <hi>Philip</hi> ſent a Trumpeter to know the meaning thereof, the <hi>Dale men</hi> returned an<g ref="char:EOLhyphen"/>ſwer, <hi>That they were reſolved to loſe their lives, rather then to be plundered of their eſtates and goods, and ther<g ref="char:EOLhyphen"/>fore deſired reſhitution of what had been taken from them or their neighbours.</hi>
+                  </p>
+                  <p>Sir <hi>Philip</hi> underſtanding this, gave order, that all horſes, or any other goods or cattell whatſoever ſhould be reſtored to the right owners, and that for the future, no man ſhall dare to take the worth of a peny from any man, <hi>upon pain of death:</hi> the horſes be<g ref="char:EOLhyphen"/>ing reſtored, they were convoyep through the Coun<g ref="char:EOLhyphen"/>try.</p>
+                  <closer>
+                     <dateline>Helmſly <date>4. Septemb. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:162199:4"/>
+                  <head>
+                     <hi>A</hi> Declaration of the Prince, and his drawing off from the Earl of <hi>Warwick.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>VVE have juſt now received intelligence, that his Highneſſe the Prince of <hi>Wales,</hi> and the Right Honorable the Earl of <hi>Warwick,</hi> have lately fa<g ref="char:EOLhyphen"/>ced each other with their two Fleets, ſome of the <hi>L.</hi> Admirals ſhips came up, and ſailed within a league of the Prince, but did not engage, the revolted ſhips not daring to make one ſhot againſt them but perceiving the reſt of the Lord Admirals ſhips advancing up, drew off and durſt not fight</p>
+                  <p>Since which time, it is reported, that his Highneſſe made towards Yarmouth Roads, thinking to have vic<g ref="char:EOLhyphen"/>tualled the Navy, and therefore ſent theſe enſuing De<g ref="char:EOLhyphen"/>ſires to the Aldermen of the town, <hi>viz.</hi>
+                  </p>
+                  <p>Intimating, that his Highneſs deſired admittance into the town, to recreate his perſon, and to furniſh himſelf with ſuch neceſsary proviſions, as his Highneſs ſtood in need of, promiſing upon his Royall word, that no injury or moleſtation ſhould be uſed to any.</p>
+                  <p>The Aldermen having received this meſſage, after ſome debate thereupon, reſolved to oppoſe his landing and returned anſwer, humbly deſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ing his Highneſſe to perſiſt no further therein: For having ſeriouſly weighed the great danger that might befall that town,
+<pb n="5" facs="tcp:162199:4"/>if once an in road were made by the adverſe party, re<g ref="char:EOLhyphen"/>ſolved to ſecure the Inhabitants, and forthwith raiſed the trained Bands, and other additionall forces for de<g ref="char:EOLhyphen"/>fence thereof, which accordingly they did: yet not<g ref="char:EOLhyphen"/>withſtanding the Prince attempted to land, and divers Gentlemen and others, betook themſelves to long Boats, thinking to come aſhore, but upon diſcovery thereof, the trained Bands fired, whereupon they retur<g ref="char:EOLhyphen"/>ned, and made no further oppoſition.</p>
+                  <p>After which, a party of them in the night landed at a Village within two miles of <hi>Yarmouth,</hi> brought divers Boats and empty Casks to the ſhore, filled them with freſh water, and other neceſſaries and returned. But divers of the deboiſt Sea-men letting <hi>Time</hi> ſlip, were left a ſhore, who having been plundering up and down the parts adjacent, were ſet upon by the Country<g ref="char:EOLhyphen"/>men, who fought with them, took two priſo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers, and the reſt eſcaped.</p>
+                  <p>That which doth moſt induce the inhabitants in theſe parts to ſtand upon their Guards, and to oppoſe the adverſe party, is their affection to the Parliament, and zeal to their Country, who hearing of the Gene<g ref="char:EOLhyphen"/>rals advance towards theſe parts, takes courage, and with a handfull of men dare oppoſe a very pregnable party.</p>
+                  <p>It is generally reported, that the Prince intends for <hi>Holland,</hi> being much diſcontented at the preſent pro<g ref="char:EOLhyphen"/>ceedings of the Lord Admirall <hi>Warwick,</hi> who concei<g ref="char:EOLhyphen"/>ved, and were oftentimes told by divers attending his Royall perſon that they were aſſured <hi>Warwick</hi> dared not to appear upon the Seas to fight his Highneſſe.</p>
+                  <closer>
+                     <dateline>Langdale Point <date>5. Sept. 1648</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:162199:5"/>
+            <p> Letters from the North further ſay. That ſince the defeating of the <hi>Hamiltonians,</hi> ſtrange ſights hath bin ſeen in the Sky, as a ſword in a mans hand in a flame of fire, ſtreeming towards <hi>Scotland,</hi> and was ſeene to fall about Tweed: a good <hi>Omen</hi> that the vermine of mankind is going over Tweed, lame and halting many hath preſaged their ſhamefull overthrow, as we ſee at this day. The Scots priſoners call the Engliſh Army the <hi>Independent Conquerors;</hi> But <hi>Munro</hi> ſaith, <hi>That he doubts not but to become the Presbyterian Conqueror, and to destroy both root and branch of Independency:</hi> ſo ſaid his predeceſſour, the great Duke; but mark what follow'd, his breach of Covenant, by invading <hi>England</hi> cals for perpetual ignominy and diſgrace.</p>
+            <p>Letters from the Navy ſay, that the Prince decli<g ref="char:EOLhyphen"/>ning an engagement, is gone into <hi>Holland,</hi> the Earle of <hi>VVarwi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi> purſues, and is reſolved to fight.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
